@@ -24,7 +24,7 @@ Our code is a mixture of C++ and matlab programming, and its dependent libraries
 Create a new "build" folder. After Cmake compiles, create a folder to store the results, such as "build/shape1",
 Put the input mesh "shape1.obj" in this folder.
 
-Write the parameters of the article into "input_info.txt". Such as, seg_param0, seg_param1, seg_param2, seg_param3, seg_param4, seg_param5, seg_param6
+Write the parameters of the article into "input_info.txt". Such as, seg_param0 seg_param1 seg_param2 seg_param3 seg_param4 seg_param5 seg_param6
 
 - seg_param0: The location of the folder used to store the results
 - seg_param1: The initial number of direction lines
